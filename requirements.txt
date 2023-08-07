@@ -1,0 +1,6 @@
+aiogram>=3.0.0rc1
+
+python-dotenv
+sqlalchemy
+asyncpg
+alembic
